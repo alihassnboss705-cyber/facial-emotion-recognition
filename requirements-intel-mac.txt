@@ -1,0 +1,8 @@
+# Intel Mac (x86_64) + Python 3.12 ke liye
+tensorflow==2.16.2
+numpy==1.26.4
+opencv-python-headless==4.9.0.80
+fastapi
+uvicorn[standard]
+python-multipart
+requests

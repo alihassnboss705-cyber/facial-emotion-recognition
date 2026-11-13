@@ -1,0 +1,1 @@
+{"class_names": ["angry", "disgust", "fear", "happy", "neutral", "sad", "surprise"], "keep": ["angry", "happy", "neutral", "sad"], "scales": [1.0, 1.0, 1.0, 1.0, 0.8, 2.5, 1.0], "thresh": 0.3, "img_size": 48}
